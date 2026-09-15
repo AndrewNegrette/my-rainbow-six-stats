@@ -1,6 +1,19 @@
 
-pacman::p_load ("shiny", "readxl", "dplyr", "tidyr",
-                "ggplot2", "scales", "janitor", "ggrepel")
+library(shiny)
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(scales)
+library(janitor)
+library(ggrepel)
+
+setwd("/Users/anegrette/Documents/Codex/2026-09-15/yo")
+
+install.packages("rsconnect")
+rsconnect::writeManifest()
+
+file.exists("manifest.json")
 
 DATA_FILE <- file.path("data", "My R6 Data.xlsx")
 
