@@ -4,7 +4,7 @@ An R Shiny dashboard for exploring your personal Rainbow Six Siege performance a
 
 ## Live Dashboard
 
-[Open the live Rainbow Six Siege dashboard](https://connect.posit.cloud/anegrette/content/01a0a772-e943-53c5-ff74-d5b91fd9e0e2)
+[Open the live Rainbow Six Siege dashboard](https://01a0a772-e943-53c5-ff74-d5b91fd9e0e2.share.connect.posit.cloud/)
 
 ## Features
 
