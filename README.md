@@ -2,6 +2,10 @@
 
 An R Shiny dashboard for exploring your personal Rainbow Six Siege performance across operators, maps, platforms, and ranked play.
 
+## Live Dashboard
+
+[Open the live Rainbow Six Siege dashboard](https://connect.posit.cloud/anegrette/content/01a0a772-e943-53c5-ff74-d5b91fd9e0e2)
+
 ## Features
 
 - Operator Decision Matrix: rounds played versus win rate, with K/D shown by point size
